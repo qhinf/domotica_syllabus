@@ -56,8 +56,8 @@ sphinx:
       deadline: "donderdag 29 juno, 16:00"
       deadline_uitstel_aanvragen: "maandag 12 juno, 16:00"
       deadline_uitstel: "donderdag 13 julij, 16:00"
-      docent: "..."
-      docent_email: "... apenstaartje quadraam punt nl"
+      docent: "Allart van den Berg"
+      docent_email: "a punt vandenberg apenstaartje candea punt nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
